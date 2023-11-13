@@ -5,7 +5,7 @@ The algolia NestJS module based on the official algolia package by <a href="http
 ## How to install
 
 ```
-npm install npm i @curo__/nestjs-algolia
+npm install @curo__/nestjs-algolia
 ```
 
 ## How to use
