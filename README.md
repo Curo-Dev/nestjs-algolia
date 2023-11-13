@@ -1,25 +1,11 @@
+
 # nestjs-algolia
-
-The algolia NestJS module based on the official algolia package
-
-## Support
-
-If you use and like this library, feel free to support my Open Source projects.
-
-[![donate](https://www.paypalobjects.com/en_US/BE/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=JZ26X897M9V9L&currency_code=EUR)
+The algolia NestJS module based on the official algolia package by <a href="https://github.com/fvilers">@fvilers</a>
 
 ## How to install
 
 ```
-npm install nestjs-algolia
-npm install --save-dev @types/algoliasearch
-```
-
-or
-
-```
-yarn add nestjs-algolia
-yarn add -D @types/algoliasearch
+npm install npm i @curo__/nestjs-algolia
 ```
 
 ## How to use
@@ -124,9 +110,6 @@ It works the same as `useClass` with one critical difference - `AlgoliaModule` w
 
 Use the following table to match this module with the NestJS version
 
-| nestjs-algolia | nestjs |
+| @curo__/nestjs-algolia | nestjs |
 | -------------- | ------ |
-| 1.x            | 5.x    |
-| 2.x            | 6.x    |
-| 3.x            | 7.x    |
-| 4.x            | 8.x    |
+| 1.x            | 10.x    |
